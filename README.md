@@ -4,7 +4,7 @@ This project is a Movie Recommendation System designed to predict and suggest mo
 
 Mainly three types of recommendation systems in machine learning based on filtering are used to suggest product and services to the consumers.
 
-=Content Filtering
+-Content Filtering
 
 -Collaborative Filtering
 
