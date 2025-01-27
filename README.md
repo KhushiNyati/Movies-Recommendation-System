@@ -38,3 +38,5 @@ Key features include:
 Both Content Filtering & Collaborative Filtering is used for the purpose. you-tube uses this algorithm for their strong recommendation system.
 
 For this project, Content based filtering model more specifically item-based filtering concept has been used. Concept of Clustering, a subset of unsupervised machine learning has been used to build this recommendation system. TfidfVectorizer(Term Frequency & Inverse Document Frequency) of sklearn library has been used to count the frequency of the genres types. Hyper parameter of TfidfVectorizer gives better result. The TfidfVectorizer will tokenize documents, learn the vocabulary and inverse document frequency weightings, and allow you to encode new documents. Alternately, if you already have a learned CountVectorizer, you can use it with a TfidfTransformer to just calculate the inverse document frequencies and start encoding documents. Now for the finding the similarity in genres sigmoid_kernel has been used. (cosine, linear can also be used).
+
+Data Gathered From: https://www.kaggle.com/grouplens/movielens-20m-dataset
