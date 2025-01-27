@@ -47,4 +47,4 @@ Sub-set of The used Data set : https://github.com/KhushiNyati/Movies-Recommendat
 
 Model Pickled for Web Scraping : https://github.com/KhushiNyati/Movies-Recommendation-System/blob/main/mod.py
 
-Flask File : https://github.com/KhushiNyati/Movies-Recommendation-System/blob/main/app.py
+Flask File : https://github.com/KhushiNyati/Movies-Recommendation-System/blob/main/main.py
