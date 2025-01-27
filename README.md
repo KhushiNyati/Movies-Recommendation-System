@@ -4,19 +4,35 @@ This project is a Movie Recommendation System designed to predict and suggest mo
 
 Mainly three types of recommendation systems in machine learning based on filtering are used to suggest product and services to the consumers.
 
--Content Filtering
+  1.  Content Filtering
 
--Collaborative Filtering
+  2.  Collaborative Filtering
 
--Hybrid Filtering
+  3.  Hybrid Filtering
+
+  4.  Content Filtering:
+
+      In this algorithm, we try finding items look alike. Once we have item look like matrix,
+
+      we can easily recommend alike items to a customer, who has purchased any item from the store.
+
+  5.  Collaborative Filtering:
+
+      Here, we try to search for look alike customers and offer products based on what his/her lookalike has chosen.
+
+      This algorithm is very effective but takes a lot of time and resources.
+
+  6.  Hybrid Filtering (Content Filtering + Collaborative Filtering):
+
+      Both Content Filtering & Collaborative Filtering is used for the purpose. you-tube uses this algorithm for their strong recommendation system.
 
 Key features include:
 
--Ensures highly relevant suggestions by analyzing similarities between users and movies.
+   -Ensures highly relevant suggestions by analyzing similarities between users and movies.
 
--Content-based Filtering: Utilizes metadata like genres, directors, and cast to recommend similar movies.
+   -Content-based Filtering: Utilizes metadata like genres, directors, and cast to recommend similar movies.
 
--Interactive Interface: User-friendly UI allowing users to explore recommendations, rate movies, and receive instant feedback.
+   -Interactive Interface: User-friendly UI allowing users to explore recommendations, rate movies, and receive instant feedback.
 
 
 Both Content Filtering & Collaborative Filtering is used for the purpose. you-tube uses this algorithm for their strong recommendation system.
