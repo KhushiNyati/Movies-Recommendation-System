@@ -41,10 +41,10 @@ For this project, Content based filtering model more specifically item-based fil
 
 Data Gathered From: https://www.kaggle.com/grouplens/movielens-20m-dataset
 
-Data Pre-Processing and Model Applied : 
+Data Pre-Processing and Model Applied : https://github.com/KhushiNyati/Movies-Recommendation-System/blob/main/Recommender%20system.ipynb
 
-Sub-set of The used Data set : 
+Sub-set of The used Data set : https://github.com/KhushiNyati/Movies-Recommendation-System/blob/main/itdf.csv
 
-Model Pickled for Web Scraping : 
+Model Pickled for Web Scraping : https://github.com/KhushiNyati/Movies-Recommendation-System/blob/main/mod.py
 
-Flask File : 
+Flask File : https://github.com/KhushiNyati/Movies-Recommendation-System/blob/main/app.py
