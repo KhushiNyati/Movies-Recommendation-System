@@ -1,4 +1,4 @@
-Movie_Recommendation_System
+Movie-Recommendation_System
 
 This project is a Movie Recommendation System designed to predict and suggest movies based on user preferences. In machine learning collaborative filtering techniques, this system analyzes vast amounts of data to deliver personalized recommendations.
 
